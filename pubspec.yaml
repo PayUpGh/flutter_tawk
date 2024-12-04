@@ -4,14 +4,14 @@ version: 0.1.0
 homepage: https://github.com/ayoubamine/flutter_tawk
 
 environment:
-  sdk: '>=2.16.2 <3.0.0'
-  flutter: '>=1.17.0'
+  sdk: '>=3.4.0-279.0.dev <4.0.0'
+
 
 dependencies:
   flutter:
     sdk: flutter
 
-  webview_flutter: ^3.0.1
+  webview_flutter: ^3.10.0
 
 dev_dependencies:
   flutter_test:
